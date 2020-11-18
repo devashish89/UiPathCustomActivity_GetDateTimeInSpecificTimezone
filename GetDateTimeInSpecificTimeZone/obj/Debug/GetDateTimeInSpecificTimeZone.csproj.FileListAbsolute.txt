@@ -1,0 +1,5 @@
+C:\Users\dnigam\source\repos\GetDateTimeInSpecificTimeZone\GetDateTimeInSpecificTimeZone\bin\Debug\GetDateTimeInSpecificTimeZone.dll
+C:\Users\dnigam\source\repos\GetDateTimeInSpecificTimeZone\GetDateTimeInSpecificTimeZone\bin\Debug\GetDateTimeInSpecificTimeZone.pdb
+C:\Users\dnigam\source\repos\GetDateTimeInSpecificTimeZone\GetDateTimeInSpecificTimeZone\obj\Debug\GetDateTimeInSpecificTimeZone.dll
+C:\Users\dnigam\source\repos\GetDateTimeInSpecificTimeZone\GetDateTimeInSpecificTimeZone\obj\Debug\GetDateTimeInSpecificTimeZone.pdb
+C:\Users\dnigam\source\repos\GetDateTimeInSpecificTimeZone\GetDateTimeInSpecificTimeZone\obj\Debug\GetDateTimeInSpecificTimeZone.csprojAssemblyReference.cache
